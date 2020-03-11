@@ -2,7 +2,7 @@
 
 Welcome friend, here you can;
 
- - Mass download all of the memes on https://www.memehaven.net/ , FORK ME
+ - Mass download all of the memes on https://www.memehaven.net/ , **FORK ME**
  - Submit and discuss ideas for future features, I will do my best to implement them
  - Submit memes to be added to the site, I will review any memes you submit and provide personal feedback there is 99% chance that your meme will feature on the site, I am open-minded and love freedom of speech
  - report any errors on memehaven.net
