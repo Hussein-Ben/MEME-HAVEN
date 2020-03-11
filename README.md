@@ -21,8 +21,12 @@ I am personally funding the whole site, so it stays free as long as I live.
 - at least 69 fresh memes daily 
 - download and share memes freely
 
-# How to submit a meme
+# How to submit a meme (I love you)
 
+ 1. go to the folder /**SUBMIT MEMES HERE!!!**/
+ 2. do a pull request (if you don't know, email me I'll show you)
+ 3. I will personally review the meme under Freedom of Speech, 99% of your memes will be accepted anyway
+ 4. I will add your memes onto the site, it gets updated daily.
 
 # why did you this?
 
