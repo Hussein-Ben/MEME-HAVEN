@@ -15,7 +15,7 @@ I am personally funding the whole site, so it stays free as long as I live.
  ![QR CODE](https://github.com/Hussein-Ben/MEME-HAVEN/blob/master/MEME%20HAVEN%20DAT%20URL.png)
 
 
-### USING THE BEAKER BROWSER.
+### USING THE BEAKER BROWSER.(https://beakerbrowser.com/)
 
 ## https://meme-haven.hashbase.io/ without using the Beaker Browser
 
