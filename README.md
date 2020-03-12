@@ -17,6 +17,8 @@ I am personally funding the whole site, so it stays free as long as I live.
 
 ### USING THE BEAKER BROWSER.
 
+## https://meme-haven.hashbase.io/ without using the Beaker Browser
+
 # Main features of Meme Haven
 
 - Free forever 
