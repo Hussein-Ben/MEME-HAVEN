@@ -9,6 +9,8 @@ Welcome friend, here you can;
 
 I am personally funding the whole site, so it stays free as long as I live. 
 
+### MEME HAVEN IS NOW DECENTRALIZED. GO TO: dat://6a9c1b06b03fa22e79ed37ec113e73dbdc6c918f46f8b6d93b619efe32ea9622 USING THE BEAKER BROWSER.
+
 # Main features of Meme Haven
 
 - Free forever 
