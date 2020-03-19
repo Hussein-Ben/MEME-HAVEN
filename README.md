@@ -1,5 +1,9 @@
 # MEME HAVEN ミーム天国
 
+*UPDATE*
+
+The memehaven.net site has been disbanded as cannot afford to run it, anymore.
+
 Welcome friend, here you can;
 
  - Mass download all of the memes on https://www.memehaven.net/ , **FORK ME**
